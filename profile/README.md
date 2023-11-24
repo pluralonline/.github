@@ -1,3 +1,6 @@
+
+![b-LinkedIn--Cover-Photo](https://github.com/pluralonline/.github/assets/28298004/50451dfa-260d-4363-9fce-1fe309d0a812)
+
 ## Plural
 
 Power your business to collect online payments, make payouts, onboard customers, and offer embedded finance solutions through an intuitive dashboard and easy-to-integrate APIs.
