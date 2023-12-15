@@ -8,7 +8,7 @@ Power your business to collect online payments, make payouts, onboard customers,
 
 ## Getting Started
 
-To get started with using Plural by Pinelabs, sign up at https://www.pluralonline.com/
+To get started with using Plural by Pine Labs, sign up at https://www.pluralonline.com/
 
 <!--
 
